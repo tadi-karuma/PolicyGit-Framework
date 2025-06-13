@@ -7,7 +7,7 @@
 **構文テンプレート＋履歴管理＋構想公開**を統合的に扱うGit標準の導入を提案します。
 
 構想は [SystemDesignManual](https://github.com/tadi-karuma/SystemDesignManual) に基づいて段階的に設計されており、  
-実証的な構想事例として [HETAX構想](https://github.com/tadi-karuma/HETAX) により運用済です。
+実証的な構想事例として [HETAX構想](https://github.com/tadi-karuma/HETAX) により構想設計済です。
 
 ## 📚 補助文書一覧（構文構成）
 
@@ -39,14 +39,14 @@
 
 - 💡 制度構想テンプレート：  
 　[SystemDesignManual](https://github.com/tadi-karuma/SystemDesignManual)  
-- 🧪 運用例：  
+- 🧪 構想設計例：  
 　[HETAX構想（Humanitarian Economic Taxation）](https://github.com/tadi-karuma/HETAX)  
 
 ## 📣 運用上の補足事項（解釈と補完：原則2）
 
 - 本リポジトリの構文構成は行政内のGit活用を想定したテンプレートに準拠しています  
 - 採用・導入においては、**内部Git（非公開）→外部Git（広報・説明）**の2段階活用を想定  
-- **構文読解が困難な場合や制度文化との整合に課題がある場合**は、docs/CounterArguments.md を参照
+- **構文読解が困難な場合や制度文化との整合に課題がある場合**は、[CounterArguments.md](docs/CounterArguments.md) を参照
 
 ## 📄 ライセンスと再利用
 
