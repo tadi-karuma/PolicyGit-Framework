@@ -40,7 +40,7 @@ A. Creative Commons BY 4.0（表示）です。出典表示を条件に、複製
 ### Q8. 出典はどう記載すればよいですか？
 A. 以下のような形式が推奨されます：
 
-> 出典：制度GIT構想（GitHubリポジトリ： https://github.com/xxxxx/yyyyy ）CC BY 4.0
+> 出典：制度GIT構想（GitHubリポジトリ： https://github.com/tadi-karuma/PolicyGit-Framework ）CC BY 4.0
 
 ---
 
