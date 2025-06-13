@@ -41,7 +41,7 @@
 - 🧪 構想設計例：  
 　[HETAX構想（Humanitarian Economic Taxation）](https://github.com/tadi-karuma/HETAX)  
 
-## 📣 運用上の補足事項（解釈と補完：原則2）
+## 📣 運用上の補足事項
 
 - 本リポジトリの構文構成は行政内のGit活用を想定したテンプレートに準拠しています  
 - 採用・導入においては、**内部Git（非公開）→外部Git（広報・説明）**の2段階活用を想定  
