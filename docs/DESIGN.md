@@ -54,7 +54,7 @@
 
 ## ❖ 設計済構想との関係
 
-この設計手法はすでに [HETAX構想](https://github.com/tadi-karuma/HETAX) において実装・運用されており、  
+[HETAX構想](https://github.com/tadi-karuma/HETAX)において同様のフレームワークに基づいて設計された事例が存在し  
 制度設計の透明性・工程可視化・議論誘導などにおいてAIによる完成度評価では高い評価を得ています。
 
 ---
