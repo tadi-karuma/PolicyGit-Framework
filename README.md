@@ -6,8 +6,7 @@
 本構想は、制度設計の「構文化」「構想工程の可視化」「市民対話の簡素化」「政策広報の統合」を実現するため、  
 **構文テンプレート＋履歴管理＋構想公開**を統合的に扱うGit標準の導入を提案します。
 
-構想は [SystemDesignManual](https://github.com/tadi-karuma/SystemDesignManual) に基づいて段階的に設計されており、  
-実証的な構想事例として [HETAX構想](https://github.com/tadi-karuma/HETAX) により構想設計済です。
+構想は [SystemDesignManual](https://github.com/tadi-karuma/SystemDesignManual) に基づいて段階的に設計されています。
 
 ## 📚 補助文書一覧（構文構成）
 
