@@ -1,0 +1,32 @@
+Creative Commons Attribution 4.0 International Public License (CC BY 4.0)
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
+
+【日本語補足】本ライセンスは、創作物の改変・再配布・商用利用を含む自由な利用を許可します。ただし、出典表示（クレジット）を条件とします。
+
+1. License Grant. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to:
+  a. Reproduce and Share the Licensed Material, in whole or in part, for any purpose, even commercially; and
+  b. Produce, reproduce, and Share Adapted Material for any purpose, even commercially.
+
+【日本語補足】営利・非営利を問わず、複製・配布・改変・翻案が可能です。
+
+2. Attribution. If You Share the Licensed Material (including in modified form), You must:
+  a. Retain the following if supplied by the Licensor:
+     - Identification of the creator(s)
+     - Copyright notice
+     - A notice that refers to this Public License
+     - A notice that the Licensed Material is licensed under this Public License, including a URI or hyperlink to it
+  b. Indicate if You modified the Licensed Material and retain an indication of any previous modifications
+  c. Do not imply any endorsement by the Licensor
+
+【日本語補足】利用の際は、出典（著作者名・ライセンス種別・リンク）を明記し、改変した場合はその旨を記載してください。著作者の支持を示唆することは禁止されています。
+
+3. No additional restrictions. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+【日本語補足】ライセンスで許可された利用を妨げる技術的制限や法的条件を追加してはいけません。
+
+4. Disclaimer. The Licensed Material is provided "as-is" and without any warranty.
+
+【日本語補足】本ライセンスの下で提供される資料は現状のまま提供され、いかなる保証も含まれません。
+
+For the full license text, see: https://creativecommons.org/licenses/by/4.0/legalcode
